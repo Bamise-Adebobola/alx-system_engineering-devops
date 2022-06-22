@@ -1,1 +1,1 @@
-This script would list all files in long format
+This script would list all files in working directory
