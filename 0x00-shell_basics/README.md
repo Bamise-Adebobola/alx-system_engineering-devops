@@ -1,1 +1,1 @@
-This script would list all files in working directory
+This script lists all the files in the current directory
