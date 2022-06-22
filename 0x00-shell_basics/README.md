@@ -1,1 +1,1 @@
-This script changes the user's current directory to home directory
+This script would list all files in long format
