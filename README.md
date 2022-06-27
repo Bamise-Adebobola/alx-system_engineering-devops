@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+The first script would print hello world
