@@ -7,3 +7,4 @@ The sixth script would print the first ten lines of the /etc/passwd file
 The seventh script would print only the third line of the iacta file
 The eighth script would create a file with special characters in the file name
 The ninth script would output the results of the ls -la command into the designated file
+The tenth script would duplicate the last line of the iacta file
