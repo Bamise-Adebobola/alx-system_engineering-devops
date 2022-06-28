@@ -10,3 +10,4 @@ The ninth script would output the results of the ls -la command into the designa
 The tenth script would duplicate the last line of the iacta file
 The eleventh script would delete all js files
 The twelfth script would list all the directories and subdirectories of the current working directory
+The thirteenth script would list the 10 newest files sorted from newest to oldest
