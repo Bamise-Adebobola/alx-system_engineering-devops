@@ -13,3 +13,4 @@ The twelfth script would list all the directories and subdirectories of the curr
 The thirteenth script would list the 10 newest files sorted from newest to oldest
 The fourteenth script would print the number of directories and subdirectories
 The fifteenth script would find the text 'root' in the /etc/passwd file
+The sixteenth script would count how many times a text appears in the /etc/passwd file
