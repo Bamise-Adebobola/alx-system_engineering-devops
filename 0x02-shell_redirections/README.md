@@ -20,3 +20,4 @@ The nineteenth script would display the lines of the file that begins with a let
 The twentieth script would change letters A and c to letters Z and e respectively
 THe twenty-first script would remove letters from output
 The twenty-second script wpuld reverse the form of its input
+The twenty-third script would print the users and their home directories
