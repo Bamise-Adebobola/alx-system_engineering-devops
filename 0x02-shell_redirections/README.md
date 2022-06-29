@@ -17,3 +17,4 @@ The sixteenth script would count how many times a text appears in the /etc/passw
 The seventeenth script would find the pattern "root" and display three lines after it
 Th eighteenth script would display lines without the pattern of text
 The nineteenth script would display the lines of the file that begins with a letter
+The twentieth script would change letters A and c to letters Z and e respectively
